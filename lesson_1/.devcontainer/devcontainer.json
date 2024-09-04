@@ -9,14 +9,14 @@
                 "terminal.integrated.shell.linux": "/bin/bash"
             },
             "extensions": [
-                "ms-python.python",         // Python extension
-                "ms-python.pylance",        // Pylance extension for fast type checking
-                "ms-toolsai.jupyter",       // Jupyter notebook support
-                "ms-toolsai.code-runner",   // Code Runner for running code snippets
-                "ms-python.black-formatter",// Black code formatter
-                "ms-python.mypy",           // Mypy type checker
-                "ms-toolsai.gitlens",       // GitLens for Git integration
-                "esbenp.prettier-vscode",   // Prettier for code formatting (if you use multiple languages)
+                "ms-python.python", // Python extension
+                "ms-python.pylance", // Pylance extension for fast type checking
+                "ms-toolsai.jupyter", // Jupyter notebook support
+                "ms-toolsai.code-runner", // Code Runner for running code snippets
+                "ms-python.black-formatter", // Black code formatter
+                "ms-python.mypy", // Mypy type checker
+                "ms-toolsai.gitlens", // GitLens for Git integration
+                "esbenp.prettier-vscode", // Prettier for code formatting (if you use multiple languages)
                 "visualstudioexptteam.vscodeintellicode" // IntelliCode for AI-assisted code completions
             ]
         }
